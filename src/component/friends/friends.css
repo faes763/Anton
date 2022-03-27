@@ -1,0 +1,12 @@
+.friends {
+    text-align: right;
+    margin-right: 15px;
+}
+.friends p{
+    cursor: pointer;
+    
+}
+.friends p:hover {
+    color: grey;
+    
+}

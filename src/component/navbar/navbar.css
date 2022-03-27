@@ -9,5 +9,8 @@
     cursor: pointer;
 }
 .navbar a:hover {
-    background-color: rgb(145, 70, 138);
+    text-decoration-line: underline;
+    background-color: rgb(245, 244, 244);
+    /* color:grey; */
+    /* opacity: 0.7; */
 }

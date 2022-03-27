@@ -1,0 +1,19 @@
+.cloud {
+    margin-left: 15px;
+}
+.cloud span {
+    display: block;
+}
+.cloud button {
+    cursor: pointer;
+}
+.messages {
+    display: grid;
+    grid-template-areas: "message message friends";
+}
+.message {
+    grid-area: message;
+}
+.friends {
+    grid-area: friends;
+}

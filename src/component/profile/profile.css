@@ -1,6 +1,4 @@
-.profile {
-    /* grid-area: p; */
-}
+
 .me {
     display: grid;
     grid-template-columns: 3fr 9fr;
@@ -8,6 +6,7 @@
 }
 .me img {
     width: 100%;
+   
     margin: 0;
     padding: 0;
 }
@@ -23,6 +22,7 @@
 .posts img {
     width: 70px;
     margin: 5px;
+    border-radius: 100%;
 }
 .post {
     margin: 20px;
